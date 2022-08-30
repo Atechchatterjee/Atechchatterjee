@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Anish Chatterjee
 - Full Stack Web Developer
-- I am currently in my first year of studing Computer Science and Engineering
+- I am currently in my second year of studing Computer Science and Engineering
 
 # Projects
 - All my projects are in my Github repo
