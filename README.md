@@ -1,9 +1,13 @@
-# About Me
-- 👋 Hi, I’m Anish Chatterjee
-- Full Stack Web Developer
-- I am currently in my second year of studing Computer Science and Engineering
+# Anish Chattopadhyay
+- Full Stack Web Developer, Mobile Developer, Desktop App Developer
+- Love working on everything coding and UI/UX
+- Final year computer science student
 
-# Projects
-- All my projects are in my Github repo
-- My Path-Finder Alogrithm project is hosted at netlify (https://determined-lalande-7e7098.netlify.app)
-- Currently working on an ecommerce project which aims to provide a customised solution to a customer.
+### Working on
+- Currently working on making a cross-platform file manager - [Kosh](https://github.com/Atechchatterjee/kosh)
+- Also working on a keyboard driven diagramming tool - [KeeDraw](https://github.com/Atechchatterjee/keedraw)
+
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/chatterjee-anish/)
+- [X.com](https://x.com/anishchatterj33)
+- [Discord](https://discord.com/users/895573192972840970)
