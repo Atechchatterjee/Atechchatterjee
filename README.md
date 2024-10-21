@@ -4,8 +4,7 @@
 - Final year computer science student
 
 ### Working on
-- Currently working on making a cross-platform file manager - [Kosh](https://github.com/Atechchatterjee/kosh)
-- Also working on a keyboard driven diagramming tool - [KeeDraw](https://github.com/Atechchatterjee/keedraw)
+- Currently working on making a cross-platform file manager - [Filezzy](https://github.com/Atechchatterjee/filezzy)
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/chatterjee-anish/)
